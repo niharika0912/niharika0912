@@ -6,7 +6,7 @@ I like creating things that are practical, scalable, and easy to use — whether
 
 ---
 
-## 💻 Tools & Tech
+## Tools & Tech
 
 - Languages: Java, Python, JavaScript, C++
 - Web: HTML, CSS, React, Node.js
@@ -15,7 +15,7 @@ I like creating things that are practical, scalable, and easy to use — whether
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - Building full-stack web applications  
 - Exploring machine learning and data-driven solutions  
@@ -23,16 +23,16 @@ I like creating things that are practical, scalable, and easy to use — whether
 
 ---
 
-## ✨ A bit about me
+## A bit about me
 
-- I enjoy solving problems and learning new technologies  
-- Interested in both engineering and data-focused roles  
-- I like building projects that have real-world impact  
-- Always looking to grow and take on new challenges  
+- 🚀 I enjoy solving problems and learning new technologies  
+- 📊 Interested in both engineering and data-focused roles  
+- 🛠 I like building projects that have real-world impact  
+- 📈 Always looking to grow and take on new challenges  
 
 ---
 
-## 📫 Reach me
+## Reach me
 
-- LinkedIn: https://www.linkedin.com/in/niharika-goud-cika  
-- GitHub: https://github.com/niharika0912  
+- 🔗 LinkedIn: https://www.linkedin.com/in/niharika-goud-cika  
+- 💻 GitHub: https://github.com/niharika0912  
